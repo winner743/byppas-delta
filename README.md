@@ -1,2 +1,3 @@
-# byppas-delta
-Website deployed via GitHub Pages
+# byppas delta
+
+Hosted on GitHub Pages.
